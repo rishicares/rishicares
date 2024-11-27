@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rishikesh
 
-**Electronics Engineering Student** | **Full Stack Developer** | **Machine Learning Enthusiast**
+### **Electronics Engineering Student**
 
 ---
 
