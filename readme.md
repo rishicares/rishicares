@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Rishikesh!
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to create and learn new things. My journey in tech is driven by curiosity and the desire to make an impact through code.
+I'm an Electronic, Communication and Information Engineering Student at Kantipur Engineering College. I like solving problems using tech.
 
 ### 🛠️ Tech Stack
 
@@ -28,11 +28,6 @@ I'm a passionate developer who loves to create and learn new things. My journey 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=rishicares&layout=compact&theme=radical)](https://github.com/rishicares)
 
-<!-- ### 🌟 Featured Projects
-
-- [Project 1](https://github.com/rishicares/project1) - Brief description
-- [Project 2](https://github.com/rishicares/project2) - Brief description
-- [Project 3](https://github.com/rishicares/project3) - Brief description -->
 
 ### 🌱 Currently Learning
 
