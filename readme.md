@@ -26,8 +26,8 @@ I'm an Electronic, Communication, and Information Engineering student at Kantipu
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rishicares&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=rishicares&layout=compact&theme=radical)(https://github.com/rishicares?tab=repositories)
-
+<!-- top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishicares&layout=compact&theme=radical)
 
 ### 🌱 Currently Learning
 
