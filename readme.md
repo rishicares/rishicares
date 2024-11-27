@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Rishikesh!
 
 ## 🚀 About Me
-
-I'm an Electronic, Communication and Information Engineering Student at Kantipur Engineering College. I like solving problems using tech.
+I'm an Electronic, Communication, and Information Engineering student at Kantipur Engineering College. I enjoy solving problems using technology and continuously strive to learn and grow in the field. I am passionate about web development, cloud computing, and machine learning. I am also a graphic designer and a marketing enthusiast.
 
 ### 🛠️ Tech Stack
 
@@ -14,7 +13,8 @@ I'm an Electronic, Communication and Information Engineering Student at Kantipur
 
 - 🌐 Web Development:
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![NodeJJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -26,7 +26,7 @@ I'm an Electronic, Communication and Information Engineering Student at Kantipur
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rishicares&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=rishicares&layout=compact&theme=radical)](https://github.com/rishicares?tab=repositories)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=rishicares&layout=compact&theme=radical)(https://github.com/rishicares?tab=repositories)
 
 
 ### 🌱 Currently Learning
@@ -43,7 +43,7 @@ I'm an Electronic, Communication and Information Engineering Student at Kantipur
 
 ### ⚡ Fun Fact
 
-I love graphic design and marketing as well! I looked after graphic design for whole franchise football team in Nepal Super League 2023
+I love graphic design and marketing as well! I looked after graphic design for whole franchise football team in Nepal Super League 2023.
 
 ---
 
