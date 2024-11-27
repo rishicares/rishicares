@@ -26,7 +26,7 @@ I'm an Electronic, Communication and Information Engineering Student at Kantipur
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rishicares&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=rishicares&layout=compact&theme=radical)](https://github.com/rishicares)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=rishicares&layout=compact&theme=radical)](https://github.com/rishicares?tab=repositories)
 
 
 ### 🌱 Currently Learning
