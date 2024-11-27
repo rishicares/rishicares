@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rishikesh
 
-### **Electronics Engineering Student**
+### **Electronics, Communication and Information Engineering Student**
 
 ---
 
